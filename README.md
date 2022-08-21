@@ -1,5 +1,5 @@
 # phv
-a lightweight PHP version switcher
+a lightweight PHP version switcher that utilize the Debian's alternatives system.
 
 ## Installation
 ### Ubuntu
