@@ -45,7 +45,7 @@ func printInstalledVersion() error {
 		if lines[i] == "" {
 			continue
 		}
-		fmt.Printf("%v\n", lines[i])
+		fmt.Println(lines[i])
 	}
 
 	return nil
