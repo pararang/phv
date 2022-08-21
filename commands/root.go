@@ -7,9 +7,9 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "url-monitor",
-	Short: "url-monitor",
-	Long: `url-monitor`,
+	Use:   "phv",
+	Short: "phv",
+	Long: `phv is a tool to manage installed PHP version.`,
  }
 
  func init() {
